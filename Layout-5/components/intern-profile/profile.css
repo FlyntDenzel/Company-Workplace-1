@@ -36,3 +36,11 @@
 .footer{
     text-align: center;
 }
+
+.mt-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
